@@ -1,8 +1,8 @@
 # Olá! Eu sou a Luísa Maria 👋
 
-🎓 Estudante de Engenharia de Software na PUCPR
-📍 Curitiba, PR
-💻 Interesse em Desenvolvimento de Software, Desenvolvimento Web, Banco de Dados e Cibersegurança
+🎓 Estudante de Engenharia de Software na PUCPR.
+📍 Curitiba, PR.
+💻 Interesse em Desenvolvimento de Software, Desenvolvimento Web, Banco de Dados e Cibersegurança.
 
 ## 👩‍💻 Sobre mim
 
