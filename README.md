@@ -1,4 +1,4 @@
-# Olá! Eu sou a Luísa 👋
+# Olá! Eu sou a Luísa Maria 👋
 
 🎓 Estudante de Engenharia de Software na PUCPR  
 📍 Curitiba, PR  
