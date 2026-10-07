@@ -1,8 +1,8 @@
 # Olá! Eu sou a Luísa Maria 👋
 
-🎓 Estudante de Engenharia de Software na PUCPR  
-📍 Curitiba, PR  
-💻 Interesse em Desenvolvimento de Software, Desenvolvimento Web, Banco de Dados e Cibersegurança
+🎓 Estudante de Engenharia de Software na PUCPR.  
+📍 Curitiba, PR.
+💻 Interesse em Desenvolvimento de Software, Desenvolvimento Web, Banco de Dados e Cibersegurança.
 
 ## 👩‍💻 Sobre mim
 
@@ -15,19 +15,19 @@ Atualmente, busco oportunidades de estágio na área de tecnologia para aplicar 
 ## 🛠️ Tecnologias
 
 **Linguagens:**  
-Java • Python • JavaScript • PHP
+Java • Python • JavaScript • PHP.
 
 **Web:**  
-HTML5 • CSS3 • JavaScript
+HTML5 • CSS3 • JavaScript.
 
 **Banco de Dados:**  
-SQL • MySQL
+SQL • MySQL.
 
 **Ferramentas:**  
-Git • GitHub • Visual Studio Code
+Git • GitHub • Visual Studio Code.
 
 **Conhecimentos:**  
-Programação Orientada a Objetos • APIs • CRUD • UML • Engenharia de Requisitos • Cibersegurança
+Programação Orientada a Objetos • APIs • CRUD • UML • Engenharia de Requisitos • Cibersegurança.
 
 ## 🚀 Projetos
 
@@ -48,8 +48,8 @@ Sistema web para gestão de equipes e tarefas em ambientes educacionais, desenvo
 
 ## 🌎 Idiomas
 
-🇧🇷 Português — Nativo  
-🇨🇦 Inglês — Intermediário | Experiência de intercâmbio no Canadá
+🇧🇷 Português — Nativo. 
+🇨🇦 Inglês — Intermediário | Experiência de intercâmbio no Canadá.
 
 ## 📫 Contato
 
